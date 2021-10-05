@@ -1,0 +1,18 @@
+.button {
+    display: block;
+    width: 200px;
+    height: 25px;
+    background: #1A488E;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 25px;
+    margin-left: 650px;
+}
+
+.topbreak{
+    margin: 350px;
+}
