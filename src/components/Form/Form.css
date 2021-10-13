@@ -1,30 +1,31 @@
 .form {
     width: 200px;
-    padding: 20px;
+    padding: 10px;
     margin: 20px;
     text-align: center;
     line-height: 1.5;
     border: 10px solid rgb(105, 105, 105);
-    display: inline-block;
+    display: flex;
     }
   
   input[type=text], select, textarea {
-    width: 200px; 
+  
+    width: 200px;
     padding: 10px; 
     border: 0; 
     border-radius: 10px; 
     box-sizing: border-box; 
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-    margin:20px 10;
+    margin:30px 20;
     text-align: center;
-    resize: vertical 
+    resize: vertical;
   }
   
   
   .container {
     border-radius: 5px;
     background-color: #f2f2f2;
-    padding: 20px;
+    padding: 10px;
   } 
 
   button {
@@ -36,4 +37,5 @@
     text-decoration: none;
     margin: 4px 2px;
     cursor: pointer;
+    
   }

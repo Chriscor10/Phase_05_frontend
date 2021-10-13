@@ -1,5 +1,6 @@
 .load{
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    background-color: rgb(255, 255, 255);
     margin: auto;
     width: 40%;
     border-radius: 10px;

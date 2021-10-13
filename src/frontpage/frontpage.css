@@ -16,3 +16,10 @@
 .topbreak{
     margin: 350px;
 }
+
+
+  .top{
+    padding:40px 0;
+    background-color:#1A488E;
+    color:#1A488E(210, 1%, 30%);
+  }
